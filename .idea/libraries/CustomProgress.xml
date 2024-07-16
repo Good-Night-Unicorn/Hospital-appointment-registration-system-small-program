@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomProgress">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/php8f3om/front/components/progress/CustomProgress.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
